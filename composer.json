@@ -1,0 +1,22 @@
+{
+    "name": "paulvl/larastrap",
+    "description": "Bootstrap HTML, Form Builders and Shortcuts for the Laravel Framework",
+    "keywords": ["bootsrap" ,"boostrap3", "forms", "framework", "laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul Vidal",
+            "email": "i@paulvl.me"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.9",
+        "laravelcollective/html": "5.2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Paulvl\\Larastrap\\": "src/"
+        }
+    }
+}

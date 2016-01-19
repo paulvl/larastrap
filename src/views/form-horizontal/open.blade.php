@@ -1,0 +1,1 @@
+{!! Form::open(array_merge(['class' => 'form-horizontal', 'role' => 'form'], $attributes)) !!}
