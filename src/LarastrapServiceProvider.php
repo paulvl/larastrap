@@ -5,7 +5,7 @@ namespace Paulvl\Larastrap;
 use Illuminate\Support\ServiceProvider;
 use Collective\Html\FormFacade as Form;
 
-class LarastrapServiceProvier extends ServiceProvider
+class LarastrapServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.
